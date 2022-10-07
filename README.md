@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jamshid Boltaboyev
+- 👀 I’m interested in backend developement
+- 🌱 I’m currently learning microservices architecture
